@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/rick/tutorials/django_fundamentals/django-env/bin/python",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true
+}
